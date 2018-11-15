@@ -1,0 +1,11 @@
+#!/usr/bin/env node
+"use strict";
+
+var fs = require("fs");
+var dagger = require("../lib/dagger");
+
+var fn = process.argv[2];
+var source = fs.readFileSync(fn, 'utf8');
+
+var dag = dagger.parse(source);
+console.log("%s", dag);
