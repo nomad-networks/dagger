@@ -1,7 +1,7 @@
 {
   "name": "dagger",
   "version": "0.0.0",
-  "description": "An expressive data machine for human beings.",
+  "description": "An expressive data machine for lazy people.",
   "main": "lib/dagger",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
