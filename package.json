@@ -1,0 +1,11 @@
+{
+  "name": "dagger",
+  "version": "0.0.0",
+  "description": "An expressive data machine for humans.",
+  "main": "dagger.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Máté Birkás",
+  "license": "GPL-3.0"
+}
