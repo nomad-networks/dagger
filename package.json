@@ -4,7 +4,7 @@
   "description": "An expressive data machine for lazy people.",
   "main": "lib/dagger",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "Máté Birkás",
   "license": "GPL-3.0",
